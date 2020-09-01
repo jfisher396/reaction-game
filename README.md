@@ -7,6 +7,8 @@ A game where a user's reaction time to clicking on randomly located squares and 
 ---
 ## Visuals
 
+![GitHub Logo](/media/reaction-game.png)
+
 ---
 ## License
 
